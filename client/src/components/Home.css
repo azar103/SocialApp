@@ -1,0 +1,53 @@
+.body-container {
+  height: 100%;
+  display: flex;
+}
+
+.description_container {
+  width: 800px;
+  margin: auto;
+  background-color: #f8f9fa;
+  padding: 15px;
+  height: auto;
+  display: flex;
+}
+
+textarea {
+  resize: none;
+  height: 80px;
+  width: 600px;
+  position: relative;
+}
+
+.bouton {
+  width: 100px;
+  margin-left: 24px;
+  margin-top: 4px;
+}
+
+img {
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+.shortcuts_container {
+  width: 300px;
+  height: 300;
+  margin-left: 20;
+  font-size: 10px;
+  margin-left: 20px;
+  background-color: #f8f9fa;
+  padding: 5px;
+}
+
+h3 {
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+hr {
+  border: 2px solid #9cb9cd;
+  width: 15%;
+  margin-left: 5px;
+}

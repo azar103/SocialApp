@@ -1,0 +1,12 @@
+.form_container {
+  max-width: 400px;
+  padding: 10;
+  borderradius: 5;
+  height: 300;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 5px 5px 15px -10px #000000;
+}
+textarea {
+  position: relative;
+}
